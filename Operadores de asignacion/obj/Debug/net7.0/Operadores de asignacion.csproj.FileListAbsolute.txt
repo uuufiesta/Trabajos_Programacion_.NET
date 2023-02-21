@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operadores de asignacion\bin\Debug\net7.0\Operadores de asignacion.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operadores de asignacion\bin\Debug\net7.0\Operadores de asignacion.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operadores de asignacion\bin\Debug\net7.0\Operadores de asignacion.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operadores de asignacion\bin\Debug\net7.0\Operadores de asignacion.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operadores de asignacion\bin\Debug\net7.0\Operadores de asignacion.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operadores de asignacion\obj\Debug\net7.0\Operadores de asignacion.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operadores de asignacion\obj\Debug\net7.0\Operadores de asignacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operadores de asignacion\obj\Debug\net7.0\Operadores de asignacion.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operadores de asignacion\obj\Debug\net7.0\Operadores de asignacion.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operadores de asignacion\obj\Debug\net7.0\Operadores de asignacion.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operadores de asignacion\obj\Debug\net7.0\Operadores de asignacion.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operadores de asignacion\obj\Debug\net7.0\refint\Operadores de asignacion.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operadores de asignacion\obj\Debug\net7.0\Operadores de asignacion.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operadores de asignacion\obj\Debug\net7.0\Operadores de asignacion.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operadores de asignacion\obj\Debug\net7.0\ref\Operadores de asignacion.dll

@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Convertir Temperatura\bin\Debug\net7.0\Convertir Temperatura.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Convertir Temperatura\bin\Debug\net7.0\Convertir Temperatura.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Convertir Temperatura\bin\Debug\net7.0\Convertir Temperatura.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Convertir Temperatura\bin\Debug\net7.0\Convertir Temperatura.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Convertir Temperatura\bin\Debug\net7.0\Convertir Temperatura.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Convertir Temperatura\obj\Debug\net7.0\Convertir Temperatura.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Convertir Temperatura\obj\Debug\net7.0\Convertir Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Convertir Temperatura\obj\Debug\net7.0\Convertir Temperatura.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Convertir Temperatura\obj\Debug\net7.0\Convertir Temperatura.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Convertir Temperatura\obj\Debug\net7.0\Convertir Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Convertir Temperatura\obj\Debug\net7.0\Convertir Temperatura.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Convertir Temperatura\obj\Debug\net7.0\refint\Convertir Temperatura.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Convertir Temperatura\obj\Debug\net7.0\Convertir Temperatura.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Convertir Temperatura\obj\Debug\net7.0\Convertir Temperatura.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Convertir Temperatura\obj\Debug\net7.0\ref\Convertir Temperatura.dll

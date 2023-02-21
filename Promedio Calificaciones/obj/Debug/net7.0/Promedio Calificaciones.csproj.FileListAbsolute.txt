@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Promedio Calificaciones\bin\Debug\net7.0\Promedio Calificaciones.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Promedio Calificaciones\bin\Debug\net7.0\Promedio Calificaciones.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Promedio Calificaciones\bin\Debug\net7.0\Promedio Calificaciones.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Promedio Calificaciones\bin\Debug\net7.0\Promedio Calificaciones.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Promedio Calificaciones\bin\Debug\net7.0\Promedio Calificaciones.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Promedio Calificaciones\obj\Debug\net7.0\Promedio Calificaciones.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Promedio Calificaciones\obj\Debug\net7.0\Promedio Calificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Promedio Calificaciones\obj\Debug\net7.0\Promedio Calificaciones.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Promedio Calificaciones\obj\Debug\net7.0\Promedio Calificaciones.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Promedio Calificaciones\obj\Debug\net7.0\Promedio Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Promedio Calificaciones\obj\Debug\net7.0\Promedio Calificaciones.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Promedio Calificaciones\obj\Debug\net7.0\refint\Promedio Calificaciones.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Promedio Calificaciones\obj\Debug\net7.0\Promedio Calificaciones.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Promedio Calificaciones\obj\Debug\net7.0\Promedio Calificaciones.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Promedio Calificaciones\obj\Debug\net7.0\ref\Promedio Calificaciones.dll

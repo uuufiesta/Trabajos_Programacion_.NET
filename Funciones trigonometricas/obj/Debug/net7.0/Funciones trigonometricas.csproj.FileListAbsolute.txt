@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Funciones trigonometricas\bin\Debug\net7.0\Funciones trigonometricas.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Funciones trigonometricas\bin\Debug\net7.0\Funciones trigonometricas.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Funciones trigonometricas\bin\Debug\net7.0\Funciones trigonometricas.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Funciones trigonometricas\bin\Debug\net7.0\Funciones trigonometricas.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Funciones trigonometricas\bin\Debug\net7.0\Funciones trigonometricas.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Funciones trigonometricas\obj\Debug\net7.0\Funciones trigonometricas.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Funciones trigonometricas\obj\Debug\net7.0\Funciones trigonometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Funciones trigonometricas\obj\Debug\net7.0\Funciones trigonometricas.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Funciones trigonometricas\obj\Debug\net7.0\Funciones trigonometricas.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Funciones trigonometricas\obj\Debug\net7.0\Funciones trigonometricas.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Funciones trigonometricas\obj\Debug\net7.0\Funciones trigonometricas.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Funciones trigonometricas\obj\Debug\net7.0\refint\Funciones trigonometricas.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Funciones trigonometricas\obj\Debug\net7.0\Funciones trigonometricas.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Funciones trigonometricas\obj\Debug\net7.0\Funciones trigonometricas.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Funciones trigonometricas\obj\Debug\net7.0\ref\Funciones trigonometricas.dll

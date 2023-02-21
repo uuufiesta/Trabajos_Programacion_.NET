@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operaciones Matematicas\bin\Debug\net7.0\Operaciones Matematicas.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operaciones Matematicas\bin\Debug\net7.0\Operaciones Matematicas.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operaciones Matematicas\bin\Debug\net7.0\Operaciones Matematicas.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operaciones Matematicas\bin\Debug\net7.0\Operaciones Matematicas.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operaciones Matematicas\bin\Debug\net7.0\Operaciones Matematicas.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operaciones Matematicas\obj\Debug\net7.0\Operaciones Matematicas.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operaciones Matematicas\obj\Debug\net7.0\Operaciones Matematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operaciones Matematicas\obj\Debug\net7.0\Operaciones Matematicas.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operaciones Matematicas\obj\Debug\net7.0\Operaciones Matematicas.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operaciones Matematicas\obj\Debug\net7.0\Operaciones Matematicas.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operaciones Matematicas\obj\Debug\net7.0\Operaciones Matematicas.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operaciones Matematicas\obj\Debug\net7.0\refint\Operaciones Matematicas.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operaciones Matematicas\obj\Debug\net7.0\Operaciones Matematicas.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operaciones Matematicas\obj\Debug\net7.0\Operaciones Matematicas.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Operaciones Matematicas\obj\Debug\net7.0\ref\Operaciones Matematicas.dll

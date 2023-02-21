@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Trabajando Enteros\bin\Debug\net7.0\Trabajando Enteros.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Trabajando Enteros\bin\Debug\net7.0\Trabajando Enteros.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Trabajando Enteros\bin\Debug\net7.0\Trabajando Enteros.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Trabajando Enteros\bin\Debug\net7.0\Trabajando Enteros.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Trabajando Enteros\bin\Debug\net7.0\Trabajando Enteros.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Trabajando Enteros\obj\Debug\net7.0\Trabajando Enteros.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Trabajando Enteros\obj\Debug\net7.0\Trabajando Enteros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Trabajando Enteros\obj\Debug\net7.0\Trabajando Enteros.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Trabajando Enteros\obj\Debug\net7.0\Trabajando Enteros.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Trabajando Enteros\obj\Debug\net7.0\Trabajando Enteros.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Trabajando Enteros\obj\Debug\net7.0\Trabajando Enteros.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Trabajando Enteros\obj\Debug\net7.0\refint\Trabajando Enteros.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Trabajando Enteros\obj\Debug\net7.0\Trabajando Enteros.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Trabajando Enteros\obj\Debug\net7.0\Trabajando Enteros.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Trabajando Enteros\obj\Debug\net7.0\ref\Trabajando Enteros.dll
