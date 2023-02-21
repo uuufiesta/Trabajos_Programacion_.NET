@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Calculo Tiempo\bin\Debug\net7.0\Calculo Tiempo.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Calculo Tiempo\bin\Debug\net7.0\Calculo Tiempo.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Calculo Tiempo\bin\Debug\net7.0\Calculo Tiempo.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Calculo Tiempo\bin\Debug\net7.0\Calculo Tiempo.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Calculo Tiempo\bin\Debug\net7.0\Calculo Tiempo.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Calculo Tiempo\obj\Debug\net7.0\Calculo Tiempo.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Calculo Tiempo\obj\Debug\net7.0\Calculo Tiempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Calculo Tiempo\obj\Debug\net7.0\Calculo Tiempo.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Calculo Tiempo\obj\Debug\net7.0\Calculo Tiempo.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Calculo Tiempo\obj\Debug\net7.0\Calculo Tiempo.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Calculo Tiempo\obj\Debug\net7.0\Calculo Tiempo.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Calculo Tiempo\obj\Debug\net7.0\refint\Calculo Tiempo.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Calculo Tiempo\obj\Debug\net7.0\Calculo Tiempo.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Calculo Tiempo\obj\Debug\net7.0\Calculo Tiempo.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Calculo Tiempo\obj\Debug\net7.0\ref\Calculo Tiempo.dll

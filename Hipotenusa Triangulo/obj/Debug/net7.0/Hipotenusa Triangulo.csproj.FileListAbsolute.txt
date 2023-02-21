@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Hipotenusa Triangulo\bin\Debug\net7.0\Hipotenusa Triangulo.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Hipotenusa Triangulo\bin\Debug\net7.0\Hipotenusa Triangulo.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Hipotenusa Triangulo\bin\Debug\net7.0\Hipotenusa Triangulo.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Hipotenusa Triangulo\bin\Debug\net7.0\Hipotenusa Triangulo.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Hipotenusa Triangulo\bin\Debug\net7.0\Hipotenusa Triangulo.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Hipotenusa Triangulo\obj\Debug\net7.0\Hipotenusa Triangulo.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Hipotenusa Triangulo\obj\Debug\net7.0\Hipotenusa Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Hipotenusa Triangulo\obj\Debug\net7.0\Hipotenusa Triangulo.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Hipotenusa Triangulo\obj\Debug\net7.0\Hipotenusa Triangulo.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Hipotenusa Triangulo\obj\Debug\net7.0\Hipotenusa Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Hipotenusa Triangulo\obj\Debug\net7.0\Hipotenusa Triangulo.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Hipotenusa Triangulo\obj\Debug\net7.0\refint\Hipotenusa Triangulo.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Hipotenusa Triangulo\obj\Debug\net7.0\Hipotenusa Triangulo.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Hipotenusa Triangulo\obj\Debug\net7.0\Hipotenusa Triangulo.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Hipotenusa Triangulo\obj\Debug\net7.0\ref\Hipotenusa Triangulo.dll
