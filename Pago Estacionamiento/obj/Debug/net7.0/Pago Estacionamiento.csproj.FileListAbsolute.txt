@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Pago Estacionamiento\bin\Debug\net7.0\Pago Estacionamiento.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Pago Estacionamiento\bin\Debug\net7.0\Pago Estacionamiento.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Pago Estacionamiento\bin\Debug\net7.0\Pago Estacionamiento.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Pago Estacionamiento\bin\Debug\net7.0\Pago Estacionamiento.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Pago Estacionamiento\bin\Debug\net7.0\Pago Estacionamiento.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Pago Estacionamiento\obj\Debug\net7.0\Pago Estacionamiento.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Pago Estacionamiento\obj\Debug\net7.0\Pago Estacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Pago Estacionamiento\obj\Debug\net7.0\Pago Estacionamiento.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Pago Estacionamiento\obj\Debug\net7.0\Pago Estacionamiento.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Pago Estacionamiento\obj\Debug\net7.0\Pago Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Pago Estacionamiento\obj\Debug\net7.0\Pago Estacionamiento.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Pago Estacionamiento\obj\Debug\net7.0\refint\Pago Estacionamiento.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Pago Estacionamiento\obj\Debug\net7.0\Pago Estacionamiento.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Pago Estacionamiento\obj\Debug\net7.0\Pago Estacionamiento.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Pago Estacionamiento\obj\Debug\net7.0\ref\Pago Estacionamiento.dll

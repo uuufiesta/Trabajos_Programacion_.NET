@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Dia Semana\bin\Debug\net7.0\Dia Semana.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Dia Semana\bin\Debug\net7.0\Dia Semana.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Dia Semana\bin\Debug\net7.0\Dia Semana.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Dia Semana\bin\Debug\net7.0\Dia Semana.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Dia Semana\bin\Debug\net7.0\Dia Semana.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Dia Semana\obj\Debug\net7.0\Dia Semana.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Dia Semana\obj\Debug\net7.0\Dia Semana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Dia Semana\obj\Debug\net7.0\Dia Semana.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Dia Semana\obj\Debug\net7.0\Dia Semana.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Dia Semana\obj\Debug\net7.0\Dia Semana.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Dia Semana\obj\Debug\net7.0\Dia Semana.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Dia Semana\obj\Debug\net7.0\refint\Dia Semana.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Dia Semana\obj\Debug\net7.0\Dia Semana.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Dia Semana\obj\Debug\net7.0\Dia Semana.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Dia Semana\obj\Debug\net7.0\ref\Dia Semana.dll
