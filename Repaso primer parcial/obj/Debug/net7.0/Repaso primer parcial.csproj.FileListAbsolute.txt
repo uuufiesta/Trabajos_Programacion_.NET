@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Repaso primer parcial\bin\Debug\net7.0\Repaso primer parcial.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Repaso primer parcial\bin\Debug\net7.0\Repaso primer parcial.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Repaso primer parcial\bin\Debug\net7.0\Repaso primer parcial.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Repaso primer parcial\bin\Debug\net7.0\Repaso primer parcial.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Repaso primer parcial\bin\Debug\net7.0\Repaso primer parcial.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Repaso primer parcial\obj\Debug\net7.0\Repaso primer parcial.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Repaso primer parcial\obj\Debug\net7.0\Repaso primer parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Repaso primer parcial\obj\Debug\net7.0\Repaso primer parcial.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Repaso primer parcial\obj\Debug\net7.0\Repaso primer parcial.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Repaso primer parcial\obj\Debug\net7.0\Repaso primer parcial.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Repaso primer parcial\obj\Debug\net7.0\Repaso primer parcial.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Repaso primer parcial\obj\Debug\net7.0\refint\Repaso primer parcial.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Repaso primer parcial\obj\Debug\net7.0\Repaso primer parcial.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Repaso primer parcial\obj\Debug\net7.0\Repaso primer parcial.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Repaso primer parcial\obj\Debug\net7.0\ref\Repaso primer parcial.dll

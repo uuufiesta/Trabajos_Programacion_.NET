@@ -25,6 +25,7 @@
     <projectFile>Pago Estacionamiento/Pago Estacionamiento.csproj</projectFile>
     <projectFile>Promedio Calificaciones/Promedio Calificaciones.csproj</projectFile>
     <projectFile>Radio de un circulo/Radio de un circulo.csproj</projectFile>
+    <projectFile>Repaso primer parcial/Repaso primer parcial.csproj</projectFile>
     <projectFile>Tipo Angulo/Tipo Angulo.csproj</projectFile>
     <projectFile>Trabajando Constantes/Trabajando Constantes.csproj</projectFile>
     <projectFile>Trabajando Enteros/Trabajando Enteros.csproj</projectFile>
@@ -35,7 +36,7 @@
     <projectFile>Volumen Cilindro/Volumen Cilindro.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd861ee-2c13-48eb-90e4-e75524ed8d60" name="Changes" comment="">
+    <list default="true" id="1cd861ee-2c13-48eb-90e4-e75524ed8d60" name="Changes" comment="Se agregan los trabajos de la actividad 6">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Trabajos SIG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Trabajos SIG/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabajos SIG.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajos SIG.sln" afterDir="false" />
     </list>
@@ -54,6 +55,7 @@
     <setting file="file://$PROJECT_DIR$/Aceptar Estudiante/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Area de un circulo/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Area de un triangulo/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Calculadora/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Calcular Angulo/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Dividir en cifras/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Funciones trigonometricas/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -92,7 +94,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.Pago Estacionamiento">
+  <component name="RunManager" selected=".NET Project.Repaso primer parcial">
     <configuration name="Aceptar Estudiante" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -525,6 +527,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Repaso primer parcial" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Repaso primer parcial/Repaso primer parcial.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Tipo Angulo" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -683,7 +703,8 @@
       <workItem from="1676565076347" duration="4194000" />
       <workItem from="1676997701339" duration="27000" />
       <workItem from="1676997761056" duration="14239000" />
-      <workItem from="1677602998112" duration="2742000" />
+      <workItem from="1677602998112" duration="3280000" />
+      <workItem from="1677775431331" duration="3977000" />
     </task>
     <task id="LOCAL-00001" summary="Añadiendo trabajos">
       <created>1677001912403</created>
@@ -720,7 +741,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677181056816</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Se agregan los trabajos de la actividad 6">
+      <created>1677605905864</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677605905864</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -745,6 +773,7 @@
     <MESSAGE value="Se agregan los programas de la tarea 1" />
     <MESSAGE value="Se agregan los programas faltantes" />
     <MESSAGE value="Se agregan los programas de la actividad 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agregan los programas de la actividad 6" />
+    <MESSAGE value="Se agregan los trabajos de la actividad 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agregan los trabajos de la actividad 6" />
   </component>
 </project>
