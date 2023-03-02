@@ -98,6 +98,6 @@ Console.WriteLine($"Donde: {donde}");
 Console.WriteLine($"Cantidad: {cant}");
 Console.WriteLine($"Subtotal: {subtot:C}");
 Console.WriteLine($"Descuento: {desc:p2}");
-Console.WriteLine($"Total: {total:Cdo}");
+Console.WriteLine($"Total: {total:C}");
     
 return 0;
