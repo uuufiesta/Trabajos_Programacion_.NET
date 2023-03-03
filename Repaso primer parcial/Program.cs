@@ -1,6 +1,7 @@
 ﻿// Sistema de ventas para pizzeria
 
 // Declaramos una funcion de tipo void para desplegar el menu de seleccion
+
 void Menu()
 {
     Console.Clear();
@@ -57,6 +58,7 @@ foreach (string ing in ings)
             ingredientes += "Piña";
             break;
     }
+
     subtot += 5;
 }
 
@@ -79,7 +81,7 @@ if (subtot < 1000)
     desc = 0.0f;
     cliente = "Platino";
 }
-else if(subtot<2000)
+else if (subtot < 2000)
 {
     desc = 0.10f;
     cliente = "Plata";
@@ -89,9 +91,10 @@ else
     desc = 0.20f;
     cliente = "Oro";
 }
+
 total = subtot - (subtot * desc);
 
-    Console.WriteLine($"Tamaño: {tamanio}");
+Console.WriteLine($"Tamaño: {tamanio}");
 Console.WriteLine($"Ingredientes: {ingredientes}");
 Console.WriteLine($"Cubierta: {cubierta}");
 Console.WriteLine($"Donde: {donde}");
@@ -99,5 +102,5 @@ Console.WriteLine($"Cantidad: {cant}");
 Console.WriteLine($"Subtotal: {subtot:C}");
 Console.WriteLine($"Descuento: {desc:p2}");
 Console.WriteLine($"Total: {total:C}");
-    
+
 return 0;

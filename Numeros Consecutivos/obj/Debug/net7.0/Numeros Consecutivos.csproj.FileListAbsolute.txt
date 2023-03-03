@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros Consecutivos\bin\Debug\net7.0\Numeros Consecutivos.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros Consecutivos\bin\Debug\net7.0\Numeros Consecutivos.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros Consecutivos\bin\Debug\net7.0\Numeros Consecutivos.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros Consecutivos\bin\Debug\net7.0\Numeros Consecutivos.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros Consecutivos\bin\Debug\net7.0\Numeros Consecutivos.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros Consecutivos\obj\Debug\net7.0\Numeros Consecutivos.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros Consecutivos\obj\Debug\net7.0\Numeros Consecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros Consecutivos\obj\Debug\net7.0\Numeros Consecutivos.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros Consecutivos\obj\Debug\net7.0\Numeros Consecutivos.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros Consecutivos\obj\Debug\net7.0\Numeros Consecutivos.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros Consecutivos\obj\Debug\net7.0\Numeros Consecutivos.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros Consecutivos\obj\Debug\net7.0\refint\Numeros Consecutivos.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros Consecutivos\obj\Debug\net7.0\Numeros Consecutivos.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros Consecutivos\obj\Debug\net7.0\Numeros Consecutivos.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros Consecutivos\obj\Debug\net7.0\ref\Numeros Consecutivos.dll
