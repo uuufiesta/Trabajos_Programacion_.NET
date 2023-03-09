@@ -9,6 +9,7 @@
     <projectFile>Calculo Notas/Calculo Notas.csproj</projectFile>
     <projectFile>Calculo Tiempo/Calculo Tiempo.csproj</projectFile>
     <projectFile>Compra Pizza/Compra Pizza.csproj</projectFile>
+    <projectFile>Conteo numeros/Conteo numeros.csproj</projectFile>
     <projectFile>Continentes Mundo/Continentes Mundo.csproj</projectFile>
     <projectFile>Convertir Dolares/Convertir Dolares.csproj</projectFile>
     <projectFile>Convertir Farenheit/Convertir Farenheit.csproj</projectFile>
@@ -25,14 +26,18 @@
     <projectFile>Numero Mayor/Numero Mayor.csproj</projectFile>
     <projectFile>Numeros Consecutivos/Numeros Consecutivos.csproj</projectFile>
     <projectFile>Numeros Romanos/Numeros Romanos.csproj</projectFile>
+    <projectFile>Numeros de 1 a 100/Numeros de 1 a 100.csproj</projectFile>
+    <projectFile>Numeros de 100 a 1/Numeros de 100 a 1.csproj</projectFile>
     <projectFile>Operaciones Matematicas/Operaciones Matematicas.csproj</projectFile>
     <projectFile>Operadores de asignacion/Operadores de asignacion.csproj</projectFile>
     <projectFile>Paga Extra/Paga Extra.csproj</projectFile>
     <projectFile>Paga Trabajador/Paga Trabajador.csproj</projectFile>
     <projectFile>Pago Estacionamiento/Pago Estacionamiento.csproj</projectFile>
+    <projectFile>Procesa calificaciónes/Procesa calificaciónes.csproj</projectFile>
     <projectFile>Promedio Calificaciones/Promedio Calificaciones.csproj</projectFile>
     <projectFile>Radio de un circulo/Radio de un circulo.csproj</projectFile>
     <projectFile>Repaso primer parcial/Repaso primer parcial.csproj</projectFile>
+    <projectFile>Tabla Multiplicar/Tabla Multiplicar.csproj</projectFile>
     <projectFile>Tipo Angulo/Tipo Angulo.csproj</projectFile>
     <projectFile>Trabajando Constantes/Trabajando Constantes.csproj</projectFile>
     <projectFile>Trabajando Enteros/Trabajando Enteros.csproj</projectFile>
@@ -66,6 +71,7 @@
     <setting file="file://$PROJECT_DIR$/Calculadora/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Calcular Angulo/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Dividir en cifras/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Examen 1/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Funciones trigonometricas/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Operadores de asignacion/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Repaso primer parcial/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
@@ -239,6 +245,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Compra Pizza/Compra Pizza.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Conteo numeros" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Conteo numeros/Conteo numeros.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -536,6 +560,42 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Numeros de 1 a 100" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Numeros de 1 a 100/Numeros de 1 a 100.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Numeros de 100 a 1" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Numeros de 100 a 1/Numeros de 100 a 1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Operaciones Matematicas" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -626,6 +686,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Procesa calificaciónes" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Procesa calificaciónes/Procesa calificaciónes.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Promedio Calificaciones" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -671,6 +749,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Repaso primer parcial/Repaso primer parcial.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Tabla Multiplicar" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Tabla Multiplicar/Tabla Multiplicar.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -840,7 +936,8 @@
       <workItem from="1676997761056" duration="14239000" />
       <workItem from="1677602998112" duration="3280000" />
       <workItem from="1677775431331" duration="10290000" />
-      <workItem from="1678208810950" duration="2070000" />
+      <workItem from="1678208810950" duration="3891000" />
+      <workItem from="1678379699229" duration="3394000" />
     </task>
     <task id="LOCAL-00001" summary="Añadiendo trabajos">
       <created>1677001912403</created>
@@ -905,7 +1002,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677812934858</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Se sube el examen 1">
+      <created>1678210963252</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1678210963252</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -934,6 +1038,7 @@
     <MESSAGE value="Se agrega el programa de repaso" />
     <MESSAGE value="Fix del programa de repaso" />
     <MESSAGE value="Se agregan los programas de la tarea 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agregan los programas de la tarea 2" />
+    <MESSAGE value="Se sube el examen 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se sube el examen 1" />
   </component>
 </project>
