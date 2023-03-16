@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Conjetura de Collatz\bin\Debug\net7.0\Conjetura de Collatz.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Conjetura de Collatz\bin\Debug\net7.0\Conjetura de Collatz.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Conjetura de Collatz\bin\Debug\net7.0\Conjetura de Collatz.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Conjetura de Collatz\bin\Debug\net7.0\Conjetura de Collatz.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Conjetura de Collatz\bin\Debug\net7.0\Conjetura de Collatz.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Conjetura de Collatz\obj\Debug\net7.0\Conjetura de Collatz.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Conjetura de Collatz\obj\Debug\net7.0\Conjetura de Collatz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Conjetura de Collatz\obj\Debug\net7.0\Conjetura de Collatz.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Conjetura de Collatz\obj\Debug\net7.0\Conjetura de Collatz.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Conjetura de Collatz\obj\Debug\net7.0\Conjetura de Collatz.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Conjetura de Collatz\obj\Debug\net7.0\Conjetura de Collatz.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Conjetura de Collatz\obj\Debug\net7.0\refint\Conjetura de Collatz.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Conjetura de Collatz\obj\Debug\net7.0\Conjetura de Collatz.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Conjetura de Collatz\obj\Debug\net7.0\Conjetura de Collatz.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Conjetura de Collatz\obj\Debug\net7.0\ref\Conjetura de Collatz.dll

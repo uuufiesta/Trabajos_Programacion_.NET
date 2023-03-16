@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Impares Descendente\bin\Debug\net7.0\Impares Descendente.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Impares Descendente\bin\Debug\net7.0\Impares Descendente.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Impares Descendente\bin\Debug\net7.0\Impares Descendente.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Impares Descendente\bin\Debug\net7.0\Impares Descendente.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Impares Descendente\bin\Debug\net7.0\Impares Descendente.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Impares Descendente\obj\Debug\net7.0\Impares Descendente.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Impares Descendente\obj\Debug\net7.0\Impares Descendente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Impares Descendente\obj\Debug\net7.0\Impares Descendente.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Impares Descendente\obj\Debug\net7.0\Impares Descendente.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Impares Descendente\obj\Debug\net7.0\Impares Descendente.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Impares Descendente\obj\Debug\net7.0\Impares Descendente.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Impares Descendente\obj\Debug\net7.0\refint\Impares Descendente.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Impares Descendente\obj\Debug\net7.0\Impares Descendente.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Impares Descendente\obj\Debug\net7.0\Impares Descendente.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Impares Descendente\obj\Debug\net7.0\ref\Impares Descendente.dll

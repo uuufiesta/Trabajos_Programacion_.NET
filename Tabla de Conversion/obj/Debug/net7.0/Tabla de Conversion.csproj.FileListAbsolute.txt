@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla de Conversion\bin\Debug\net7.0\Tabla de Conversion.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla de Conversion\bin\Debug\net7.0\Tabla de Conversion.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla de Conversion\bin\Debug\net7.0\Tabla de Conversion.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla de Conversion\bin\Debug\net7.0\Tabla de Conversion.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla de Conversion\bin\Debug\net7.0\Tabla de Conversion.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla de Conversion\obj\Debug\net7.0\Tabla de Conversion.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla de Conversion\obj\Debug\net7.0\Tabla de Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla de Conversion\obj\Debug\net7.0\Tabla de Conversion.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla de Conversion\obj\Debug\net7.0\Tabla de Conversion.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla de Conversion\obj\Debug\net7.0\Tabla de Conversion.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla de Conversion\obj\Debug\net7.0\Tabla de Conversion.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla de Conversion\obj\Debug\net7.0\refint\Tabla de Conversion.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla de Conversion\obj\Debug\net7.0\Tabla de Conversion.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla de Conversion\obj\Debug\net7.0\Tabla de Conversion.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla de Conversion\obj\Debug\net7.0\ref\Tabla de Conversion.dll
