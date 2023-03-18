@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Suma Pares Impares\bin\Debug\net7.0\Suma Pares Impares.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Suma Pares Impares\bin\Debug\net7.0\Suma Pares Impares.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Suma Pares Impares\bin\Debug\net7.0\Suma Pares Impares.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Suma Pares Impares\bin\Debug\net7.0\Suma Pares Impares.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Suma Pares Impares\bin\Debug\net7.0\Suma Pares Impares.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Suma Pares Impares\obj\Debug\net7.0\Suma Pares Impares.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Suma Pares Impares\obj\Debug\net7.0\Suma Pares Impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Suma Pares Impares\obj\Debug\net7.0\Suma Pares Impares.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Suma Pares Impares\obj\Debug\net7.0\Suma Pares Impares.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Suma Pares Impares\obj\Debug\net7.0\Suma Pares Impares.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Suma Pares Impares\obj\Debug\net7.0\Suma Pares Impares.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Suma Pares Impares\obj\Debug\net7.0\refint\Suma Pares Impares.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Suma Pares Impares\obj\Debug\net7.0\Suma Pares Impares.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Suma Pares Impares\obj\Debug\net7.0\Suma Pares Impares.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Suma Pares Impares\obj\Debug\net7.0\ref\Suma Pares Impares.dll

@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros 1 a n for\bin\Debug\net7.0\Numeros 1 a n for.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros 1 a n for\bin\Debug\net7.0\Numeros 1 a n for.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros 1 a n for\bin\Debug\net7.0\Numeros 1 a n for.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros 1 a n for\bin\Debug\net7.0\Numeros 1 a n for.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros 1 a n for\bin\Debug\net7.0\Numeros 1 a n for.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros 1 a n for\obj\Debug\net7.0\Numeros 1 a n for.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros 1 a n for\obj\Debug\net7.0\Numeros 1 a n for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros 1 a n for\obj\Debug\net7.0\Numeros 1 a n for.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros 1 a n for\obj\Debug\net7.0\Numeros 1 a n for.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros 1 a n for\obj\Debug\net7.0\Numeros 1 a n for.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros 1 a n for\obj\Debug\net7.0\Numeros 1 a n for.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros 1 a n for\obj\Debug\net7.0\refint\Numeros 1 a n for.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros 1 a n for\obj\Debug\net7.0\Numeros 1 a n for.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros 1 a n for\obj\Debug\net7.0\Numeros 1 a n for.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Numeros 1 a n for\obj\Debug\net7.0\ref\Numeros 1 a n for.dll

@@ -2,6 +2,7 @@
 // el usuario lo decida.
 
 // Aqui se encuentran las variables del programa
+
 int n1, n2, lim, n3;
 char op;
 
@@ -24,6 +25,7 @@ do
         n1 = n3;
         Console.Write($"{n2}, ");
     } while (n2 < lim);
+
     // Se pregunta si se desea hacer otra serie
     Console.WriteLine("Deseas hacer otra serie?\n" +
                       "[Y]Si\n" +
