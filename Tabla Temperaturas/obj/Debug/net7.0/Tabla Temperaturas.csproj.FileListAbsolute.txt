@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla Temperaturas\bin\Debug\net7.0\Tabla Temperaturas.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla Temperaturas\bin\Debug\net7.0\Tabla Temperaturas.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla Temperaturas\bin\Debug\net7.0\Tabla Temperaturas.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla Temperaturas\bin\Debug\net7.0\Tabla Temperaturas.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla Temperaturas\bin\Debug\net7.0\Tabla Temperaturas.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla Temperaturas\obj\Debug\net7.0\Tabla Temperaturas.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla Temperaturas\obj\Debug\net7.0\Tabla Temperaturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla Temperaturas\obj\Debug\net7.0\Tabla Temperaturas.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla Temperaturas\obj\Debug\net7.0\Tabla Temperaturas.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla Temperaturas\obj\Debug\net7.0\Tabla Temperaturas.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla Temperaturas\obj\Debug\net7.0\Tabla Temperaturas.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla Temperaturas\obj\Debug\net7.0\refint\Tabla Temperaturas.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla Temperaturas\obj\Debug\net7.0\Tabla Temperaturas.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla Temperaturas\obj\Debug\net7.0\Tabla Temperaturas.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tabla Temperaturas\obj\Debug\net7.0\ref\Tabla Temperaturas.dll

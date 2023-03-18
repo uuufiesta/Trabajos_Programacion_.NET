@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Serie Fibonaci\bin\Debug\net7.0\Serie Fibonaci.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Serie Fibonaci\bin\Debug\net7.0\Serie Fibonaci.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Serie Fibonaci\bin\Debug\net7.0\Serie Fibonaci.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Serie Fibonaci\bin\Debug\net7.0\Serie Fibonaci.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Serie Fibonaci\bin\Debug\net7.0\Serie Fibonaci.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Serie Fibonaci\obj\Debug\net7.0\Serie Fibonaci.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Serie Fibonaci\obj\Debug\net7.0\Serie Fibonaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Serie Fibonaci\obj\Debug\net7.0\Serie Fibonaci.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Serie Fibonaci\obj\Debug\net7.0\Serie Fibonaci.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Serie Fibonaci\obj\Debug\net7.0\Serie Fibonaci.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Serie Fibonaci\obj\Debug\net7.0\Serie Fibonaci.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Serie Fibonaci\obj\Debug\net7.0\refint\Serie Fibonaci.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Serie Fibonaci\obj\Debug\net7.0\Serie Fibonaci.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Serie Fibonaci\obj\Debug\net7.0\Serie Fibonaci.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Serie Fibonaci\obj\Debug\net7.0\ref\Serie Fibonaci.dll
