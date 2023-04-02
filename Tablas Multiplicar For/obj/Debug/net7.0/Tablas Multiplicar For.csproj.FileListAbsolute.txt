@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tablas Multiplicar For\bin\Debug\net7.0\Tablas Multiplicar For.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tablas Multiplicar For\bin\Debug\net7.0\Tablas Multiplicar For.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tablas Multiplicar For\bin\Debug\net7.0\Tablas Multiplicar For.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tablas Multiplicar For\bin\Debug\net7.0\Tablas Multiplicar For.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tablas Multiplicar For\bin\Debug\net7.0\Tablas Multiplicar For.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tablas Multiplicar For\obj\Debug\net7.0\Tablas Multiplicar For.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tablas Multiplicar For\obj\Debug\net7.0\Tablas Multiplicar For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tablas Multiplicar For\obj\Debug\net7.0\Tablas Multiplicar For.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tablas Multiplicar For\obj\Debug\net7.0\Tablas Multiplicar For.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tablas Multiplicar For\obj\Debug\net7.0\Tablas Multiplicar For.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tablas Multiplicar For\obj\Debug\net7.0\Tablas Multiplicar For.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tablas Multiplicar For\obj\Debug\net7.0\refint\Tablas Multiplicar For.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tablas Multiplicar For\obj\Debug\net7.0\Tablas Multiplicar For.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tablas Multiplicar For\obj\Debug\net7.0\Tablas Multiplicar For.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos SIG\Tablas Multiplicar For\obj\Debug\net7.0\ref\Tablas Multiplicar For.dll
