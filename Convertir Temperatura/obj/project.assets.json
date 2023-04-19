@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Convertir Temperatura\\Convertir Temperatura.csproj",
+      "projectUniqueName": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Convertir Temperatura\\Convertir Temperatura.csproj",
       "projectName": "Convertir Temperatura",
-      "projectPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Convertir Temperatura\\Convertir Temperatura.csproj",
+      "projectPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Convertir Temperatura\\Convertir Temperatura.csproj",
       "packagesPath": "C:\\Users\\SKU 1084303565\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Convertir Temperatura\\obj\\",
+      "outputPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Convertir Temperatura\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SKU 1084303565\\AppData\\Roaming\\NuGet\\NuGet.Config"

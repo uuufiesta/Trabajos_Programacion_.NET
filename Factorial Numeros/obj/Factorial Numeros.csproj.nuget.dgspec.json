@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Factorial Numeros\\Factorial Numeros.csproj": {}
+    "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Factorial Numeros\\Factorial Numeros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Factorial Numeros\\Factorial Numeros.csproj": {
+    "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Factorial Numeros\\Factorial Numeros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Factorial Numeros\\Factorial Numeros.csproj",
+        "projectUniqueName": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Factorial Numeros\\Factorial Numeros.csproj",
         "projectName": "Factorial Numeros",
-        "projectPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Factorial Numeros\\Factorial Numeros.csproj",
+        "projectPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Factorial Numeros\\Factorial Numeros.csproj",
         "packagesPath": "C:\\Users\\SKU 1084303565\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Factorial Numeros\\obj\\",
+        "outputPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Factorial Numeros\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SKU 1084303565\\AppData\\Roaming\\NuGet\\NuGet.Config"

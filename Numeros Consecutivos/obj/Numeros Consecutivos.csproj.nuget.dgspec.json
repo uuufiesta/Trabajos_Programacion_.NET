@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Numeros Consecutivos\\Numeros Consecutivos.csproj": {}
+    "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Numeros Consecutivos\\Numeros Consecutivos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Numeros Consecutivos\\Numeros Consecutivos.csproj": {
+    "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Numeros Consecutivos\\Numeros Consecutivos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Numeros Consecutivos\\Numeros Consecutivos.csproj",
+        "projectUniqueName": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Numeros Consecutivos\\Numeros Consecutivos.csproj",
         "projectName": "Numeros Consecutivos",
-        "projectPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Numeros Consecutivos\\Numeros Consecutivos.csproj",
+        "projectPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Numeros Consecutivos\\Numeros Consecutivos.csproj",
         "packagesPath": "C:\\Users\\SKU 1084303565\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Numeros Consecutivos\\obj\\",
+        "outputPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Numeros Consecutivos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SKU 1084303565\\AppData\\Roaming\\NuGet\\NuGet.Config"

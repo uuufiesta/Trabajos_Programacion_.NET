@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Procesa calificaciónes\\Procesa calificaciónes.csproj",
+      "projectUniqueName": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Procesa calificaciónes\\Procesa calificaciónes.csproj",
       "projectName": "Procesa calificaciónes",
-      "projectPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Procesa calificaciónes\\Procesa calificaciónes.csproj",
+      "projectPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Procesa calificaciónes\\Procesa calificaciónes.csproj",
       "packagesPath": "C:\\Users\\SKU 1084303565\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Procesa calificaciónes\\obj\\",
+      "outputPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Procesa calificaciónes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\SKU 1084303565\\AppData\\Roaming\\NuGet\\NuGet.Config"

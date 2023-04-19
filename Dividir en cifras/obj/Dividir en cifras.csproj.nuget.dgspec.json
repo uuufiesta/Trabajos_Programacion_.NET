@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Dividir en cifras\\Dividir en cifras.csproj": {}
+    "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Dividir en cifras\\Dividir en cifras.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Dividir en cifras\\Dividir en cifras.csproj": {
+    "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Dividir en cifras\\Dividir en cifras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Dividir en cifras\\Dividir en cifras.csproj",
+        "projectUniqueName": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Dividir en cifras\\Dividir en cifras.csproj",
         "projectName": "Dividir en cifras",
-        "projectPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Dividir en cifras\\Dividir en cifras.csproj",
+        "projectPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Dividir en cifras\\Dividir en cifras.csproj",
         "packagesPath": "C:\\Users\\SKU 1084303565\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos SIG\\Dividir en cifras\\obj\\",
+        "outputPath": "C:\\Users\\SKU 1084303565\\Documents\\Universidad\\8vo Semestre\\Sistemas de informacion geograficos\\Trabajos_Programacion_.NET\\Dividir en cifras\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\SKU 1084303565\\AppData\\Roaming\\NuGet\\NuGet.Config"

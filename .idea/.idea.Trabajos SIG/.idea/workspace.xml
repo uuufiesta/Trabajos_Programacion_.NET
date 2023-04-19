@@ -47,9 +47,13 @@
     <projectFile>Promedio Calificaciones/Promedio Calificaciones.csproj</projectFile>
     <projectFile>Radio de un circulo/Radio de un circulo.csproj</projectFile>
     <projectFile>Repaso primer parcial/Repaso primer parcial.csproj</projectFile>
+    <projectFile>Secuencia Numeros 1/Secuencia Numeros 1.csproj</projectFile>
+    <projectFile>Secuencia Numeros 2/Secuencia Numeros 2.csproj</projectFile>
     <projectFile>Serie Fibonaci/Serie Fibonaci.csproj</projectFile>
     <projectFile>Suma Pares Impares/Suma Pares Impares.csproj</projectFile>
     <projectFile>Suma Promedio/Suma Promedio.csproj</projectFile>
+    <projectFile>Suma Terminos For 1/Suma Terminos For 1.csproj</projectFile>
+    <projectFile>Suma Terminos For 2/Suma Terminos For 2.csproj</projectFile>
     <projectFile>Suma terminos/Suma terminos.csproj</projectFile>
     <projectFile>Tabla Multiplicar/Tabla Multiplicar.csproj</projectFile>
     <projectFile>Tabla Temperaturas/Tabla Temperaturas.csproj</projectFile>
@@ -67,7 +71,434 @@
   <component name="ChangeListManager">
     <list default="true" id="1cd861ee-2c13-48eb-90e4-e75524ed8d60" name="Changes" comment="Se sube la actividad 10">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Trabajos SIG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Trabajos SIG/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aceptar Estudiante V2/obj/Aceptar Estudiante V2.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aceptar Estudiante V2/obj/Aceptar Estudiante V2.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aceptar Estudiante V2/obj/Debug/net7.0/Aceptar Estudiante V2.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Aceptar Estudiante V2/obj/Debug/net7.0/Aceptar Estudiante V2.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aceptar Estudiante V2/obj/Debug/net7.0/Aceptar Estudiante V2.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aceptar Estudiante V2/obj/Debug/net7.0/Aceptar Estudiante V2.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aceptar Estudiante V2/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aceptar Estudiante V2/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aceptar Estudiante V2/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aceptar Estudiante V2/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aceptar Estudiante V2/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aceptar Estudiante V2/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aceptar Estudiante V2/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aceptar Estudiante V2/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aceptar Estudiante/obj/Aceptar Estudiante.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aceptar Estudiante/obj/Aceptar Estudiante.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aceptar Estudiante/obj/Debug/net7.0/Aceptar Estudiante.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Aceptar Estudiante/obj/Debug/net7.0/Aceptar Estudiante.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aceptar Estudiante/obj/Debug/net7.0/Aceptar Estudiante.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aceptar Estudiante/obj/Debug/net7.0/Aceptar Estudiante.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aceptar Estudiante/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aceptar Estudiante/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aceptar Estudiante/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Aceptar Estudiante/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aceptar Estudiante/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Aceptar Estudiante/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aceptar Estudiante/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Aceptar Estudiante/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area de un circulo/obj/Area de un circulo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Area de un circulo/obj/Area de un circulo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area de un circulo/obj/Debug/net7.0/Area de un circulo.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Area de un circulo/obj/Debug/net7.0/Area de un circulo.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area de un circulo/obj/Debug/net7.0/Area de un circulo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Area de un circulo/obj/Debug/net7.0/Area de un circulo.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area de un circulo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Area de un circulo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area de un circulo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Area de un circulo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area de un circulo/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Area de un circulo/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area de un circulo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Area de un circulo/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area de un triangulo/obj/Area de un triangulo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Area de un triangulo/obj/Area de un triangulo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area de un triangulo/obj/Debug/net7.0/Area de un triangulo.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Area de un triangulo/obj/Debug/net7.0/Area de un triangulo.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area de un triangulo/obj/Debug/net7.0/Area de un triangulo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Area de un triangulo/obj/Debug/net7.0/Area de un triangulo.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area de un triangulo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Area de un triangulo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area de un triangulo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Area de un triangulo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area de un triangulo/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Area de un triangulo/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Area de un triangulo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Area de un triangulo/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arriba Abajo/obj/Arriba Abajo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Arriba Abajo/obj/Arriba Abajo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arriba Abajo/obj/Debug/net7.0/Arriba Abajo.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Arriba Abajo/obj/Debug/net7.0/Arriba Abajo.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arriba Abajo/obj/Debug/net7.0/Arriba Abajo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Arriba Abajo/obj/Debug/net7.0/Arriba Abajo.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arriba Abajo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Arriba Abajo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arriba Abajo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Arriba Abajo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arriba Abajo/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Arriba Abajo/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arriba Abajo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Arriba Abajo/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/obj/Calculadora.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora/obj/Calculadora.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/obj/Debug/net7.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora/obj/Debug/net7.0/Calculadora.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/obj/Debug/net7.0/Calculadora.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora/obj/Debug/net7.0/Calculadora.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculadora/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Calculadora/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calcular Angulo/obj/Calcular Angulo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calcular Angulo/obj/Calcular Angulo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calcular Angulo/obj/Debug/net7.0/Calcular Angulo.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Calcular Angulo/obj/Debug/net7.0/Calcular Angulo.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calcular Angulo/obj/Debug/net7.0/Calcular Angulo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calcular Angulo/obj/Debug/net7.0/Calcular Angulo.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calcular Angulo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calcular Angulo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calcular Angulo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calcular Angulo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calcular Angulo/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calcular Angulo/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calcular Angulo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Calcular Angulo/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Notas/obj/Calculo Notas.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Notas/obj/Calculo Notas.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Notas/obj/Debug/net7.0/Calculo Notas.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Notas/obj/Debug/net7.0/Calculo Notas.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Notas/obj/Debug/net7.0/Calculo Notas.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Notas/obj/Debug/net7.0/Calculo Notas.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Notas/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Notas/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Notas/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Notas/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Notas/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Notas/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Notas/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Notas/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Tiempo/obj/Calculo Tiempo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Tiempo/obj/Calculo Tiempo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Tiempo/obj/Debug/net7.0/Calculo Tiempo.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Tiempo/obj/Debug/net7.0/Calculo Tiempo.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Tiempo/obj/Debug/net7.0/Calculo Tiempo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Tiempo/obj/Debug/net7.0/Calculo Tiempo.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Tiempo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Tiempo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Tiempo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Tiempo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Tiempo/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Tiempo/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Calculo Tiempo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Calculo Tiempo/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compra Pizza/obj/Compra Pizza.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Compra Pizza/obj/Compra Pizza.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compra Pizza/obj/Debug/net7.0/Compra Pizza.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Compra Pizza/obj/Debug/net7.0/Compra Pizza.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compra Pizza/obj/Debug/net7.0/Compra Pizza.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Compra Pizza/obj/Debug/net7.0/Compra Pizza.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compra Pizza/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Compra Pizza/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compra Pizza/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Compra Pizza/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compra Pizza/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Compra Pizza/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Compra Pizza/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Compra Pizza/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conjetura de Collatz/obj/Conjetura de Collatz.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Conjetura de Collatz/obj/Conjetura de Collatz.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conjetura de Collatz/obj/Debug/net7.0/Conjetura de Collatz.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Conjetura de Collatz/obj/Debug/net7.0/Conjetura de Collatz.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conjetura de Collatz/obj/Debug/net7.0/Conjetura de Collatz.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Conjetura de Collatz/obj/Debug/net7.0/Conjetura de Collatz.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conjetura de Collatz/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Conjetura de Collatz/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conjetura de Collatz/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Conjetura de Collatz/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conjetura de Collatz/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Conjetura de Collatz/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conjetura de Collatz/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Conjetura de Collatz/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conteo numeros/obj/Conteo numeros.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Conteo numeros/obj/Conteo numeros.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conteo numeros/obj/Debug/net7.0/Conteo numeros.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Conteo numeros/obj/Debug/net7.0/Conteo numeros.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conteo numeros/obj/Debug/net7.0/Conteo numeros.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Conteo numeros/obj/Debug/net7.0/Conteo numeros.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conteo numeros/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Conteo numeros/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conteo numeros/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Conteo numeros/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conteo numeros/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Conteo numeros/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conteo numeros/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Conteo numeros/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Continentes Mundo/obj/Continentes Mundo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Continentes Mundo/obj/Continentes Mundo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Continentes Mundo/obj/Debug/net7.0/Continentes Mundo.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Continentes Mundo/obj/Debug/net7.0/Continentes Mundo.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Continentes Mundo/obj/Debug/net7.0/Continentes Mundo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Continentes Mundo/obj/Debug/net7.0/Continentes Mundo.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Continentes Mundo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Continentes Mundo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Continentes Mundo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Continentes Mundo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Continentes Mundo/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Continentes Mundo/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Continentes Mundo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Continentes Mundo/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Dolares/obj/Convertir Dolares.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Dolares/obj/Convertir Dolares.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Dolares/obj/Debug/net7.0/Convertir Dolares.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Dolares/obj/Debug/net7.0/Convertir Dolares.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Dolares/obj/Debug/net7.0/Convertir Dolares.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Dolares/obj/Debug/net7.0/Convertir Dolares.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Dolares/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Dolares/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Dolares/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Dolares/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Dolares/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Dolares/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Dolares/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Dolares/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Farenheit/obj/Convertir Farenheit.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Farenheit/obj/Convertir Farenheit.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Farenheit/obj/Debug/net7.0/Convertir Farenheit.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Farenheit/obj/Debug/net7.0/Convertir Farenheit.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Farenheit/obj/Debug/net7.0/Convertir Farenheit.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Farenheit/obj/Debug/net7.0/Convertir Farenheit.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Farenheit/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Farenheit/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Farenheit/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Farenheit/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Farenheit/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Farenheit/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Farenheit/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Farenheit/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Temperatura/obj/Convertir Temperatura.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Temperatura/obj/Convertir Temperatura.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Temperatura/obj/Debug/net7.0/Convertir Temperatura.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Temperatura/obj/Debug/net7.0/Convertir Temperatura.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Temperatura/obj/Debug/net7.0/Convertir Temperatura.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Temperatura/obj/Debug/net7.0/Convertir Temperatura.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Temperatura/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Temperatura/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Temperatura/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Temperatura/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Temperatura/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Temperatura/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Convertir Temperatura/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Convertir Temperatura/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia Semana/obj/Debug/net7.0/Dia Semana.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Dia Semana/obj/Debug/net7.0/Dia Semana.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia Semana/obj/Debug/net7.0/Dia Semana.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Dia Semana/obj/Debug/net7.0/Dia Semana.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia Semana/obj/Dia Semana.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dia Semana/obj/Dia Semana.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia Semana/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dia Semana/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia Semana/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Dia Semana/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia Semana/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dia Semana/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dia Semana/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Dia Semana/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dividir en cifras/obj/Debug/net7.0/Dividir en cifras.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Dividir en cifras/obj/Debug/net7.0/Dividir en cifras.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dividir en cifras/obj/Debug/net7.0/Dividir en cifras.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Dividir en cifras/obj/Debug/net7.0/Dividir en cifras.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dividir en cifras/obj/Dividir en cifras.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dividir en cifras/obj/Dividir en cifras.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dividir en cifras/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dividir en cifras/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dividir en cifras/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Dividir en cifras/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dividir en cifras/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Dividir en cifras/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dividir en cifras/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Dividir en cifras/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esaciones Año/obj/Debug/net7.0/Esaciones Año.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Esaciones Año/obj/Debug/net7.0/Esaciones Año.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esaciones Año/obj/Debug/net7.0/Esaciones Año.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Esaciones Año/obj/Debug/net7.0/Esaciones Año.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esaciones Año/obj/Esaciones Año.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Esaciones Año/obj/Esaciones Año.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esaciones Año/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Esaciones Año/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esaciones Año/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Esaciones Año/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esaciones Año/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Esaciones Año/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Esaciones Año/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Esaciones Año/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen 1/obj/Debug/net7.0/Examen 1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Examen 1/obj/Debug/net7.0/Examen 1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen 1/obj/Debug/net7.0/Examen 1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Examen 1/obj/Debug/net7.0/Examen 1.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen 1/obj/Examen 1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Examen 1/obj/Examen 1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen 1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Examen 1/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen 1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Examen 1/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen 1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Examen 1/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examen 1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Examen 1/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorial Numeros/obj/Debug/net7.0/Factorial Numeros.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Factorial Numeros/obj/Debug/net7.0/Factorial Numeros.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorial Numeros/obj/Debug/net7.0/Factorial Numeros.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Factorial Numeros/obj/Debug/net7.0/Factorial Numeros.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorial Numeros/obj/Factorial Numeros.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Factorial Numeros/obj/Factorial Numeros.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorial Numeros/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Factorial Numeros/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorial Numeros/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Factorial Numeros/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorial Numeros/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Factorial Numeros/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorial Numeros/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Factorial Numeros/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funciones trigonometricas/obj/Debug/net7.0/Funciones trigonometricas.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Funciones trigonometricas/obj/Debug/net7.0/Funciones trigonometricas.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funciones trigonometricas/obj/Debug/net7.0/Funciones trigonometricas.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Funciones trigonometricas/obj/Debug/net7.0/Funciones trigonometricas.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funciones trigonometricas/obj/Funciones trigonometricas.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Funciones trigonometricas/obj/Funciones trigonometricas.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funciones trigonometricas/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Funciones trigonometricas/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funciones trigonometricas/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Funciones trigonometricas/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funciones trigonometricas/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Funciones trigonometricas/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Funciones trigonometricas/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Funciones trigonometricas/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hipotenusa Triangulo/obj/Debug/net7.0/Hipotenusa Triangulo.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Hipotenusa Triangulo/obj/Debug/net7.0/Hipotenusa Triangulo.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hipotenusa Triangulo/obj/Debug/net7.0/Hipotenusa Triangulo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Hipotenusa Triangulo/obj/Debug/net7.0/Hipotenusa Triangulo.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hipotenusa Triangulo/obj/Hipotenusa Triangulo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hipotenusa Triangulo/obj/Hipotenusa Triangulo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hipotenusa Triangulo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hipotenusa Triangulo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hipotenusa Triangulo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Hipotenusa Triangulo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hipotenusa Triangulo/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hipotenusa Triangulo/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hipotenusa Triangulo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Hipotenusa Triangulo/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hola Mundo/obj/Debug/net7.0/Hola Mundo.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Hola Mundo/obj/Debug/net7.0/Hola Mundo.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hola Mundo/obj/Debug/net7.0/Hola Mundo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Hola Mundo/obj/Debug/net7.0/Hola Mundo.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hola Mundo/obj/Hola Mundo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hola Mundo/obj/Hola Mundo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hola Mundo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hola Mundo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hola Mundo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Hola Mundo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hola Mundo/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Hola Mundo/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hola Mundo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Hola Mundo/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impares Ascendente/obj/Debug/net7.0/Impares Ascendente.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Impares Ascendente/obj/Debug/net7.0/Impares Ascendente.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impares Ascendente/obj/Debug/net7.0/Impares Ascendente.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Impares Ascendente/obj/Debug/net7.0/Impares Ascendente.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impares Ascendente/obj/Impares Ascendente.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Impares Ascendente/obj/Impares Ascendente.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impares Ascendente/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Impares Ascendente/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impares Ascendente/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Impares Ascendente/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impares Ascendente/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Impares Ascendente/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impares Ascendente/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Impares Ascendente/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impares Descendente/obj/Debug/net7.0/Impares Descendente.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Impares Descendente/obj/Debug/net7.0/Impares Descendente.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impares Descendente/obj/Debug/net7.0/Impares Descendente.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Impares Descendente/obj/Debug/net7.0/Impares Descendente.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impares Descendente/obj/Impares Descendente.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Impares Descendente/obj/Impares Descendente.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impares Descendente/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Impares Descendente/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impares Descendente/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Impares Descendente/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impares Descendente/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Impares Descendente/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Impares Descendente/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Impares Descendente/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ley de Newton/obj/Debug/net7.0/Ley de Newton.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Ley de Newton/obj/Debug/net7.0/Ley de Newton.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ley de Newton/obj/Debug/net7.0/Ley de Newton.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ley de Newton/obj/Debug/net7.0/Ley de Newton.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ley de Newton/obj/Ley de Newton.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ley de Newton/obj/Ley de Newton.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ley de Newton/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ley de Newton/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ley de Newton/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Ley de Newton/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ley de Newton/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ley de Newton/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ley de Newton/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Ley de Newton/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numero Mayor/obj/Debug/net7.0/Numero Mayor.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Numero Mayor/obj/Debug/net7.0/Numero Mayor.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numero Mayor/obj/Debug/net7.0/Numero Mayor.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numero Mayor/obj/Debug/net7.0/Numero Mayor.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numero Mayor/obj/Numero Mayor.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numero Mayor/obj/Numero Mayor.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numero Mayor/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numero Mayor/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numero Mayor/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numero Mayor/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numero Mayor/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numero Mayor/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numero Mayor/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Numero Mayor/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros 1 a n for/obj/Debug/net7.0/Numeros 1 a n for.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros 1 a n for/obj/Debug/net7.0/Numeros 1 a n for.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros 1 a n for/obj/Debug/net7.0/Numeros 1 a n for.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros 1 a n for/obj/Debug/net7.0/Numeros 1 a n for.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros 1 a n for/obj/Numeros 1 a n for.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros 1 a n for/obj/Numeros 1 a n for.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros 1 a n for/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros 1 a n for/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros 1 a n for/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros 1 a n for/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros 1 a n for/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros 1 a n for/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros 1 a n for/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros 1 a n for/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros Consecutivos/obj/Debug/net7.0/Numeros Consecutivos.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros Consecutivos/obj/Debug/net7.0/Numeros Consecutivos.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros Consecutivos/obj/Debug/net7.0/Numeros Consecutivos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros Consecutivos/obj/Debug/net7.0/Numeros Consecutivos.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros Consecutivos/obj/Numeros Consecutivos.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros Consecutivos/obj/Numeros Consecutivos.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros Consecutivos/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros Consecutivos/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros Consecutivos/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros Consecutivos/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros Consecutivos/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros Consecutivos/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros Consecutivos/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros Consecutivos/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros Romanos/obj/Debug/net7.0/Numeros Romanos.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros Romanos/obj/Debug/net7.0/Numeros Romanos.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros Romanos/obj/Debug/net7.0/Numeros Romanos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros Romanos/obj/Debug/net7.0/Numeros Romanos.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros Romanos/obj/Numeros Romanos.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros Romanos/obj/Numeros Romanos.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros Romanos/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros Romanos/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros Romanos/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros Romanos/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros Romanos/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros Romanos/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros Romanos/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros Romanos/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de 1 a 100/obj/Debug/net7.0/Numeros de 1 a 100.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de 1 a 100/obj/Debug/net7.0/Numeros de 1 a 100.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de 1 a 100/obj/Debug/net7.0/Numeros de 1 a 100.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de 1 a 100/obj/Debug/net7.0/Numeros de 1 a 100.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de 1 a 100/obj/Numeros de 1 a 100.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de 1 a 100/obj/Numeros de 1 a 100.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de 1 a 100/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de 1 a 100/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de 1 a 100/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de 1 a 100/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de 1 a 100/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de 1 a 100/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de 1 a 100/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de 1 a 100/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de 100 a 1/obj/Debug/net7.0/Numeros de 100 a 1.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de 100 a 1/obj/Debug/net7.0/Numeros de 100 a 1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de 100 a 1/obj/Debug/net7.0/Numeros de 100 a 1.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de 100 a 1/obj/Debug/net7.0/Numeros de 100 a 1.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de 100 a 1/obj/Numeros de 100 a 1.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de 100 a 1/obj/Numeros de 100 a 1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de 100 a 1/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de 100 a 1/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de 100 a 1/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de 100 a 1/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de 100 a 1/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de 100 a 1/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de 100 a 1/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de 100 a 1/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de n a 1 for/obj/Debug/net7.0/Numeros de n a 1 for.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de n a 1 for/obj/Debug/net7.0/Numeros de n a 1 for.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de n a 1 for/obj/Debug/net7.0/Numeros de n a 1 for.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de n a 1 for/obj/Debug/net7.0/Numeros de n a 1 for.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de n a 1 for/obj/Numeros de n a 1 for.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de n a 1 for/obj/Numeros de n a 1 for.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de n a 1 for/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de n a 1 for/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de n a 1 for/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de n a 1 for/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de n a 1 for/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de n a 1 for/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numeros de n a 1 for/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Numeros de n a 1 for/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operaciones Matematicas/obj/Debug/net7.0/Operaciones Matematicas.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Operaciones Matematicas/obj/Debug/net7.0/Operaciones Matematicas.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operaciones Matematicas/obj/Debug/net7.0/Operaciones Matematicas.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Operaciones Matematicas/obj/Debug/net7.0/Operaciones Matematicas.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operaciones Matematicas/obj/Operaciones Matematicas.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Operaciones Matematicas/obj/Operaciones Matematicas.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operaciones Matematicas/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Operaciones Matematicas/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operaciones Matematicas/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Operaciones Matematicas/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operaciones Matematicas/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Operaciones Matematicas/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operaciones Matematicas/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Operaciones Matematicas/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operadores de asignacion/obj/Debug/net7.0/Operadores de asignacion.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Operadores de asignacion/obj/Debug/net7.0/Operadores de asignacion.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operadores de asignacion/obj/Debug/net7.0/Operadores de asignacion.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Operadores de asignacion/obj/Debug/net7.0/Operadores de asignacion.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operadores de asignacion/obj/Operadores de asignacion.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Operadores de asignacion/obj/Operadores de asignacion.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operadores de asignacion/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Operadores de asignacion/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operadores de asignacion/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Operadores de asignacion/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operadores de asignacion/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Operadores de asignacion/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operadores de asignacion/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Operadores de asignacion/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paga Extra/obj/Debug/net7.0/Paga Extra.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Paga Extra/obj/Debug/net7.0/Paga Extra.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paga Extra/obj/Debug/net7.0/Paga Extra.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Paga Extra/obj/Debug/net7.0/Paga Extra.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paga Extra/obj/Paga Extra.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Paga Extra/obj/Paga Extra.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paga Extra/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Paga Extra/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paga Extra/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Paga Extra/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paga Extra/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Paga Extra/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paga Extra/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Paga Extra/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paga Trabajador/obj/Debug/net7.0/Paga Trabajador.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Paga Trabajador/obj/Debug/net7.0/Paga Trabajador.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paga Trabajador/obj/Debug/net7.0/Paga Trabajador.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Paga Trabajador/obj/Debug/net7.0/Paga Trabajador.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paga Trabajador/obj/Paga Trabajador.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Paga Trabajador/obj/Paga Trabajador.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paga Trabajador/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Paga Trabajador/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paga Trabajador/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Paga Trabajador/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paga Trabajador/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Paga Trabajador/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Paga Trabajador/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Paga Trabajador/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pago Estacionamiento/obj/Debug/net7.0/Pago Estacionamiento.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Pago Estacionamiento/obj/Debug/net7.0/Pago Estacionamiento.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pago Estacionamiento/obj/Debug/net7.0/Pago Estacionamiento.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Pago Estacionamiento/obj/Debug/net7.0/Pago Estacionamiento.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pago Estacionamiento/obj/Pago Estacionamiento.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Pago Estacionamiento/obj/Pago Estacionamiento.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pago Estacionamiento/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Pago Estacionamiento/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pago Estacionamiento/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Pago Estacionamiento/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pago Estacionamiento/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Pago Estacionamiento/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pago Estacionamiento/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Pago Estacionamiento/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pares Ascendente/obj/Debug/net7.0/Pares Ascendente.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Pares Ascendente/obj/Debug/net7.0/Pares Ascendente.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pares Ascendente/obj/Debug/net7.0/Pares Ascendente.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Pares Ascendente/obj/Debug/net7.0/Pares Ascendente.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pares Ascendente/obj/Pares Ascendente.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Pares Ascendente/obj/Pares Ascendente.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pares Ascendente/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Pares Ascendente/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pares Ascendente/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Pares Ascendente/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pares Ascendente/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Pares Ascendente/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pares Ascendente/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Pares Ascendente/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pares Descendente/obj/Debug/net7.0/Pares Descendente.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Pares Descendente/obj/Debug/net7.0/Pares Descendente.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pares Descendente/obj/Debug/net7.0/Pares Descendente.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Pares Descendente/obj/Debug/net7.0/Pares Descendente.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pares Descendente/obj/Pares Descendente.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Pares Descendente/obj/Pares Descendente.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pares Descendente/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Pares Descendente/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pares Descendente/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Pares Descendente/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pares Descendente/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Pares Descendente/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pares Descendente/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Pares Descendente/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piramide/obj/Debug/net7.0/Piramide.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Piramide/obj/Debug/net7.0/Piramide.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piramide/obj/Debug/net7.0/Piramide.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Piramide/obj/Debug/net7.0/Piramide.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piramide/obj/Piramide.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Piramide/obj/Piramide.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piramide/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Piramide/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piramide/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Piramide/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piramide/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Piramide/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Piramide/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Piramide/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procesa calificaciónes/obj/Debug/net7.0/Procesa calificaciónes.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Procesa calificaciónes/obj/Debug/net7.0/Procesa calificaciónes.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procesa calificaciónes/obj/Debug/net7.0/Procesa calificaciónes.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Procesa calificaciónes/obj/Debug/net7.0/Procesa calificaciónes.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procesa calificaciónes/obj/Procesa calificaciónes.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Procesa calificaciónes/obj/Procesa calificaciónes.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procesa calificaciónes/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Procesa calificaciónes/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procesa calificaciónes/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Procesa calificaciónes/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procesa calificaciónes/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Procesa calificaciónes/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procesa calificaciónes/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Procesa calificaciónes/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Promedio Calificaciones/obj/Debug/net7.0/Promedio Calificaciones.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Promedio Calificaciones/obj/Debug/net7.0/Promedio Calificaciones.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Promedio Calificaciones/obj/Debug/net7.0/Promedio Calificaciones.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Promedio Calificaciones/obj/Debug/net7.0/Promedio Calificaciones.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Promedio Calificaciones/obj/Promedio Calificaciones.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Promedio Calificaciones/obj/Promedio Calificaciones.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Promedio Calificaciones/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Promedio Calificaciones/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Promedio Calificaciones/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Promedio Calificaciones/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Promedio Calificaciones/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Promedio Calificaciones/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Promedio Calificaciones/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Promedio Calificaciones/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repaso primer parcial/obj/Debug/net7.0/Repaso primer parcial.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Repaso primer parcial/obj/Debug/net7.0/Repaso primer parcial.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repaso primer parcial/obj/Debug/net7.0/Repaso primer parcial.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Repaso primer parcial/obj/Debug/net7.0/Repaso primer parcial.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repaso primer parcial/obj/Repaso primer parcial.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Repaso primer parcial/obj/Repaso primer parcial.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repaso primer parcial/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Repaso primer parcial/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repaso primer parcial/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Repaso primer parcial/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repaso primer parcial/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Repaso primer parcial/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repaso primer parcial/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Repaso primer parcial/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serie Fibonaci/obj/Debug/net7.0/Serie Fibonaci.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Serie Fibonaci/obj/Debug/net7.0/Serie Fibonaci.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serie Fibonaci/obj/Debug/net7.0/Serie Fibonaci.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Serie Fibonaci/obj/Debug/net7.0/Serie Fibonaci.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serie Fibonaci/obj/Serie Fibonaci.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Serie Fibonaci/obj/Serie Fibonaci.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serie Fibonaci/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Serie Fibonaci/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serie Fibonaci/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Serie Fibonaci/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serie Fibonaci/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Serie Fibonaci/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Serie Fibonaci/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Serie Fibonaci/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma Pares Impares/obj/Debug/net7.0/Suma Pares Impares.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Suma Pares Impares/obj/Debug/net7.0/Suma Pares Impares.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma Pares Impares/obj/Debug/net7.0/Suma Pares Impares.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Suma Pares Impares/obj/Debug/net7.0/Suma Pares Impares.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma Pares Impares/obj/Suma Pares Impares.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Suma Pares Impares/obj/Suma Pares Impares.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma Pares Impares/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Suma Pares Impares/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma Pares Impares/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Suma Pares Impares/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma Pares Impares/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Suma Pares Impares/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma Pares Impares/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Suma Pares Impares/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma Promedio/obj/Debug/net7.0/Suma Promedio.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Suma Promedio/obj/Debug/net7.0/Suma Promedio.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma Promedio/obj/Debug/net7.0/Suma Promedio.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Suma Promedio/obj/Debug/net7.0/Suma Promedio.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma Promedio/obj/Suma Promedio.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Suma Promedio/obj/Suma Promedio.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma Promedio/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Suma Promedio/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma Promedio/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Suma Promedio/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma Promedio/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Suma Promedio/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma Promedio/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Suma Promedio/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma terminos/obj/Debug/net7.0/Suma terminos.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Suma terminos/obj/Debug/net7.0/Suma terminos.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma terminos/obj/Debug/net7.0/Suma terminos.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Suma terminos/obj/Debug/net7.0/Suma terminos.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma terminos/obj/Suma terminos.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Suma terminos/obj/Suma terminos.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma terminos/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Suma terminos/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma terminos/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Suma terminos/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma terminos/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Suma terminos/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Suma terminos/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Suma terminos/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla Multiplicar/obj/Debug/net7.0/Tabla Multiplicar.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla Multiplicar/obj/Debug/net7.0/Tabla Multiplicar.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla Multiplicar/obj/Debug/net7.0/Tabla Multiplicar.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla Multiplicar/obj/Debug/net7.0/Tabla Multiplicar.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla Multiplicar/obj/Tabla Multiplicar.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla Multiplicar/obj/Tabla Multiplicar.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla Multiplicar/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla Multiplicar/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla Multiplicar/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla Multiplicar/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla Multiplicar/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla Multiplicar/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla Multiplicar/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla Multiplicar/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla Temperaturas/obj/Debug/net7.0/Tabla Temperaturas.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla Temperaturas/obj/Debug/net7.0/Tabla Temperaturas.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla Temperaturas/obj/Debug/net7.0/Tabla Temperaturas.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla Temperaturas/obj/Debug/net7.0/Tabla Temperaturas.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla Temperaturas/obj/Tabla Temperaturas.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla Temperaturas/obj/Tabla Temperaturas.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla Temperaturas/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla Temperaturas/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla Temperaturas/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla Temperaturas/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla Temperaturas/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla Temperaturas/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla Temperaturas/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla Temperaturas/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla de Conversion/obj/Debug/net7.0/Tabla de Conversion.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla de Conversion/obj/Debug/net7.0/Tabla de Conversion.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla de Conversion/obj/Debug/net7.0/Tabla de Conversion.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla de Conversion/obj/Debug/net7.0/Tabla de Conversion.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla de Conversion/obj/Tabla de Conversion.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla de Conversion/obj/Tabla de Conversion.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla de Conversion/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla de Conversion/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla de Conversion/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla de Conversion/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla de Conversion/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla de Conversion/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tabla de Conversion/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Tabla de Conversion/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tablas Multiplicar For/obj/Debug/net7.0/Tablas Multiplicar For.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Tablas Multiplicar For/obj/Debug/net7.0/Tablas Multiplicar For.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tablas Multiplicar For/obj/Debug/net7.0/Tablas Multiplicar For.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tablas Multiplicar For/obj/Debug/net7.0/Tablas Multiplicar For.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tablas Multiplicar For/obj/Tablas Multiplicar For.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tablas Multiplicar For/obj/Tablas Multiplicar For.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tablas Multiplicar For/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tablas Multiplicar For/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tablas Multiplicar For/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tablas Multiplicar For/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tablas Multiplicar For/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tablas Multiplicar For/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tablas Multiplicar For/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Tablas Multiplicar For/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tipo Angulo/obj/Debug/net7.0/Tipo Angulo.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Tipo Angulo/obj/Debug/net7.0/Tipo Angulo.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tipo Angulo/obj/Debug/net7.0/Tipo Angulo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tipo Angulo/obj/Debug/net7.0/Tipo Angulo.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tipo Angulo/obj/Tipo Angulo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tipo Angulo/obj/Tipo Angulo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tipo Angulo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tipo Angulo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tipo Angulo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tipo Angulo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tipo Angulo/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Tipo Angulo/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tipo Angulo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Tipo Angulo/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando Constantes/obj/Debug/net7.0/Trabajando Constantes.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando Constantes/obj/Debug/net7.0/Trabajando Constantes.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando Constantes/obj/Debug/net7.0/Trabajando Constantes.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando Constantes/obj/Debug/net7.0/Trabajando Constantes.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando Constantes/obj/Trabajando Constantes.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando Constantes/obj/Trabajando Constantes.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando Constantes/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando Constantes/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando Constantes/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando Constantes/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando Constantes/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando Constantes/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando Constantes/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando Constantes/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando Enteros/obj/Debug/net7.0/Trabajando Enteros.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando Enteros/obj/Debug/net7.0/Trabajando Enteros.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando Enteros/obj/Debug/net7.0/Trabajando Enteros.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando Enteros/obj/Debug/net7.0/Trabajando Enteros.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando Enteros/obj/Trabajando Enteros.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando Enteros/obj/Trabajando Enteros.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando Enteros/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando Enteros/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando Enteros/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando Enteros/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando Enteros/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando Enteros/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando Enteros/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando Enteros/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando con flotantes/obj/Debug/net7.0/Trabajando con flotantes.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando con flotantes/obj/Debug/net7.0/Trabajando con flotantes.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando con flotantes/obj/Debug/net7.0/Trabajando con flotantes.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando con flotantes/obj/Debug/net7.0/Trabajando con flotantes.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando con flotantes/obj/Trabajando con flotantes.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando con flotantes/obj/Trabajando con flotantes.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando con flotantes/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando con flotantes/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando con flotantes/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando con flotantes/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando con flotantes/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando con flotantes/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajando con flotantes/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajando con flotantes/obj/rider.project.restore.info" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabajos SIG.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajos SIG.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajos SIG/obj/Debug/net7.0/Trabajos SIG.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajos SIG/obj/Debug/net7.0/Trabajos SIG.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajos SIG/obj/Debug/net7.0/Trabajos SIG.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajos SIG/obj/Debug/net7.0/Trabajos SIG.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajos SIG/obj/Trabajos SIG.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajos SIG/obj/Trabajos SIG.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajos SIG/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajos SIG/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajos SIG/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajos SIG/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajos SIG/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajos SIG/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trabajos SIG/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajos SIG/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verificar Numero/obj/Debug/net7.0/Verificar Numero.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Verificar Numero/obj/Debug/net7.0/Verificar Numero.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verificar Numero/obj/Debug/net7.0/Verificar Numero.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Verificar Numero/obj/Debug/net7.0/Verificar Numero.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verificar Numero/obj/Verificar Numero.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Verificar Numero/obj/Verificar Numero.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verificar Numero/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Verificar Numero/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verificar Numero/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Verificar Numero/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verificar Numero/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Verificar Numero/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verificar Numero/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Verificar Numero/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verificar Suma/obj/Debug/net7.0/Verificar Suma.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Verificar Suma/obj/Debug/net7.0/Verificar Suma.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verificar Suma/obj/Debug/net7.0/Verificar Suma.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Verificar Suma/obj/Debug/net7.0/Verificar Suma.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verificar Suma/obj/Verificar Suma.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Verificar Suma/obj/Verificar Suma.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verificar Suma/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Verificar Suma/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verificar Suma/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Verificar Suma/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verificar Suma/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Verificar Suma/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Verificar Suma/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Verificar Suma/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Volumen Cilindro/obj/Debug/net7.0/Volumen Cilindro.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Volumen Cilindro/obj/Debug/net7.0/Volumen Cilindro.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Volumen Cilindro/obj/Debug/net7.0/Volumen Cilindro.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Volumen Cilindro/obj/Debug/net7.0/Volumen Cilindro.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Volumen Cilindro/obj/Volumen Cilindro.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Volumen Cilindro/obj/Volumen Cilindro.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Volumen Cilindro/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Volumen Cilindro/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Volumen Cilindro/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Volumen Cilindro/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Volumen Cilindro/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Volumen Cilindro/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Volumen Cilindro/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Volumen Cilindro/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +525,10 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Trabajos SIG/Secuencia Numeros 2/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Trabajos SIG/Secuencia Numeros/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Trabajos SIG/Suma Terminos For 2/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Trabajos SIG/Suma Terminos For/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Aceptar Estudiante V2/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Aceptar Estudiante/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Area de un circulo/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -972,6 +1407,42 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Secuencia Numeros 1" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Secuencia Numeros 1/Secuencia Numeros 1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Secuencia Numeros 2" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Secuencia Numeros 2/Secuencia Numeros 2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Serie Fibonaci" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -1017,6 +1488,42 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Suma Promedio/Suma Promedio.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Suma Terminos For 1" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Suma Terminos For 1/Suma Terminos For 1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Suma Terminos For 2" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Suma Terminos For 2/Suma Terminos For 2.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -1281,6 +1788,8 @@
       <workItem from="1678985797568" duration="16808000" />
       <workItem from="1680390985759" duration="649000" />
       <workItem from="1680391677663" duration="5385000" />
+      <workItem from="1681921116374" duration="505000" />
+      <workItem from="1681922010250" duration="351000" />
     </task>
     <task id="LOCAL-00001" summary="Añadiendo trabajos">
       <created>1677001912403</created>
