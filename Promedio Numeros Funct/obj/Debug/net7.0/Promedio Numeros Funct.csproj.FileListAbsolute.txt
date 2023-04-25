@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Promedio Numeros Funct\bin\Debug\net7.0\Promedio Numeros Funct.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Promedio Numeros Funct\bin\Debug\net7.0\Promedio Numeros Funct.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Promedio Numeros Funct\bin\Debug\net7.0\Promedio Numeros Funct.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Promedio Numeros Funct\bin\Debug\net7.0\Promedio Numeros Funct.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Promedio Numeros Funct\bin\Debug\net7.0\Promedio Numeros Funct.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Promedio Numeros Funct\obj\Debug\net7.0\Promedio Numeros Funct.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Promedio Numeros Funct\obj\Debug\net7.0\Promedio Numeros Funct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Promedio Numeros Funct\obj\Debug\net7.0\Promedio Numeros Funct.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Promedio Numeros Funct\obj\Debug\net7.0\Promedio Numeros Funct.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Promedio Numeros Funct\obj\Debug\net7.0\Promedio Numeros Funct.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Promedio Numeros Funct\obj\Debug\net7.0\Promedio Numeros Funct.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Promedio Numeros Funct\obj\Debug\net7.0\refint\Promedio Numeros Funct.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Promedio Numeros Funct\obj\Debug\net7.0\Promedio Numeros Funct.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Promedio Numeros Funct\obj\Debug\net7.0\Promedio Numeros Funct.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Promedio Numeros Funct\obj\Debug\net7.0\ref\Promedio Numeros Funct.dll
