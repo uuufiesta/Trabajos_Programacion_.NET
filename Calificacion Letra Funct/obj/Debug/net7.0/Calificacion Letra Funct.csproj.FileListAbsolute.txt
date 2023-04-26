@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Calificacion Letra Funct\bin\Debug\net7.0\Calificacion Letra Funct.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Calificacion Letra Funct\bin\Debug\net7.0\Calificacion Letra Funct.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Calificacion Letra Funct\bin\Debug\net7.0\Calificacion Letra Funct.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Calificacion Letra Funct\bin\Debug\net7.0\Calificacion Letra Funct.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Calificacion Letra Funct\bin\Debug\net7.0\Calificacion Letra Funct.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Calificacion Letra Funct\obj\Debug\net7.0\Calificacion Letra Funct.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Calificacion Letra Funct\obj\Debug\net7.0\Calificacion Letra Funct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Calificacion Letra Funct\obj\Debug\net7.0\Calificacion Letra Funct.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Calificacion Letra Funct\obj\Debug\net7.0\Calificacion Letra Funct.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Calificacion Letra Funct\obj\Debug\net7.0\Calificacion Letra Funct.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Calificacion Letra Funct\obj\Debug\net7.0\Calificacion Letra Funct.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Calificacion Letra Funct\obj\Debug\net7.0\refint\Calificacion Letra Funct.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Calificacion Letra Funct\obj\Debug\net7.0\Calificacion Letra Funct.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Calificacion Letra Funct\obj\Debug\net7.0\Calificacion Letra Funct.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Calificacion Letra Funct\obj\Debug\net7.0\ref\Calificacion Letra Funct.dll

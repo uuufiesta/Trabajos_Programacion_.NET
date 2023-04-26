@@ -9,6 +9,7 @@
     <projectFile>Calcular Angulo/Calcular Angulo.csproj</projectFile>
     <projectFile>Calculo Notas/Calculo Notas.csproj</projectFile>
     <projectFile>Calculo Tiempo/Calculo Tiempo.csproj</projectFile>
+    <projectFile>Calificacion Letra Funct/Calificacion Letra Funct.csproj</projectFile>
     <projectFile>Compra Pizza/Compra Pizza.csproj</projectFile>
     <projectFile>Conjetura de Collatz/Conjetura de Collatz.csproj</projectFile>
     <projectFile>Conteo numeros/Conteo numeros.csproj</projectFile>
@@ -59,10 +60,12 @@
     <projectFile>Suma Rango/Suma Rango.csproj</projectFile>
     <projectFile>Suma Terminos For 1/Suma Terminos For 1.csproj</projectFile>
     <projectFile>Suma Terminos For 2/Suma Terminos For 2.csproj</projectFile>
+    <projectFile>Suma de Rango/Suma de Rango.csproj</projectFile>
     <projectFile>Suma terminos/Suma terminos.csproj</projectFile>
     <projectFile>Tabla Multiplicar/Tabla Multiplicar.csproj</projectFile>
     <projectFile>Tabla Temperaturas/Tabla Temperaturas.csproj</projectFile>
     <projectFile>Tabla de Conversion/Tabla de Conversion.csproj</projectFile>
+    <projectFile>Tabla de Multiplicar Funct/Tabla de Multiplicar Funct.csproj</projectFile>
     <projectFile>Tablas Multiplicar For/Tablas Multiplicar For.csproj</projectFile>
     <projectFile>Tipo Angulo/Tipo Angulo.csproj</projectFile>
     <projectFile>Trabajando Constantes/Trabajando Constantes.csproj</projectFile>
@@ -74,7 +77,7 @@
     <projectFile>Volumen Cilindro/Volumen Cilindro.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1cd861ee-2c13-48eb-90e4-e75524ed8d60" name="Changes" comment="Se agrega la tarea 4">
+    <list default="true" id="1cd861ee-2c13-48eb-90e4-e75524ed8d60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Trabajos SIG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Trabajos SIG/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabajos SIG.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajos SIG.sln" afterDir="false" />
     </list>
@@ -116,6 +119,7 @@
     <setting file="file://$PROJECT_DIR$/Calcular Angulo/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Conjetura de Collatz/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Conteo numeros/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Conversion Temperaturas Funct/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Dividir en cifras/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Examen 1/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Funciones trigonometricas/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -139,24 +143,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Better Highlights Tokens",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\SKU 1084303565\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\SKU 1084303565\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\SKU 1084303565\\AppData\\Local\\Symbols\\src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\SKU 1084303565\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\SKU 1084303565\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\SKU 1084303565\\AppData\\Local\\Symbols\\src"
     ]
   }
-}</component>
-  <component name="RunManager" selected=".NET Project.Examen 2">
+}]]></component>
+  <component name="RunManager" selected=".NET Project.Calificacion Letra Funct">
     <configuration name="Aceptar Estudiante V2" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -292,6 +296,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Calculo Tiempo/Calculo Tiempo.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Calificacion Letra Funct" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Calificacion Letra Funct/Calificacion Letra Funct.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -1201,6 +1223,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Suma de Rango" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Suma de Rango/Suma de Rango.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Suma terminos" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -1264,6 +1304,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Tabla de Conversion/Tabla de Conversion.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Tabla de Multiplicar Funct" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Tabla de Multiplicar Funct/Tabla de Multiplicar Funct.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -1458,7 +1516,8 @@
       <workItem from="1680391677663" duration="5385000" />
       <workItem from="1681921116374" duration="505000" />
       <workItem from="1681922010250" duration="12284000" />
-      <workItem from="1682442339716" duration="1971000" />
+      <workItem from="1682442339716" duration="2722000" />
+      <workItem from="1682526278816" duration="4151000" />
     </task>
     <task id="LOCAL-00001" summary="Añadiendo trabajos">
       <created>1677001912403</created>
@@ -1579,7 +1638,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681922468581</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Se agrega Examen 2 y practica examen">
+      <created>1682444486808</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1682444486808</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1614,6 +1680,7 @@
     <MESSAGE value="Se agregan los programas de la tarea 3" />
     <MESSAGE value="Se sube la actividad 10" />
     <MESSAGE value="Se agrega la tarea 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agrega la tarea 4" />
+    <MESSAGE value="Se agrega Examen 2 y practica examen" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agrega Examen 2 y practica examen" />
   </component>
 </project>
