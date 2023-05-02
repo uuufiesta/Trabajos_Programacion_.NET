@@ -1,0 +1,17 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\bin\Debug\net7.0\Banco CB Class.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\bin\Debug\net7.0\Banco CB Class.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\bin\Debug\net7.0\Banco CB Class.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\bin\Debug\net7.0\Cliente CB Class.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\bin\Debug\net7.0\Cuenta Bancaria Class.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\bin\Debug\net7.0\Cliente CB Class.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\bin\Debug\net7.0\Cuenta Bancaria Class.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\obj\Debug\net7.0\Banco CB Class.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\obj\Debug\net7.0\Banco CB Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\obj\Debug\net7.0\Banco CB Class.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\obj\Debug\net7.0\Banco CB Class.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\obj\Debug\net7.0\Banco CB Class.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\obj\Debug\net7.0\Banco CB Class.csproj.CopyComplete
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\obj\Debug\net7.0\Banco CB Class.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\obj\Debug\net7.0\refint\Banco CB Class.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\obj\Debug\net7.0\Banco CB Class.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Banco CB Class\obj\Debug\net7.0\ref\Banco CB Class.dll

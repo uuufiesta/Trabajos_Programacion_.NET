@@ -1,0 +1,12 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Cuenta Bancaria Class\bin\Debug\net7.0\Cuenta Bancaria Class.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Cuenta Bancaria Class\bin\Debug\net7.0\Cuenta Bancaria Class.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Cuenta Bancaria Class\bin\Debug\net7.0\Cuenta Bancaria Class.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Cuenta Bancaria Class\obj\Debug\net7.0\Cuenta Bancaria Class.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Cuenta Bancaria Class\obj\Debug\net7.0\Cuenta Bancaria Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Cuenta Bancaria Class\obj\Debug\net7.0\Cuenta Bancaria Class.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Cuenta Bancaria Class\obj\Debug\net7.0\Cuenta Bancaria Class.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Cuenta Bancaria Class\obj\Debug\net7.0\Cuenta Bancaria Class.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Cuenta Bancaria Class\obj\Debug\net7.0\Cuenta Bancaria Class.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Cuenta Bancaria Class\obj\Debug\net7.0\refint\Cuenta Bancaria Class.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Cuenta Bancaria Class\obj\Debug\net7.0\Cuenta Bancaria Class.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Cuenta Bancaria Class\obj\Debug\net7.0\ref\Cuenta Bancaria Class.dll

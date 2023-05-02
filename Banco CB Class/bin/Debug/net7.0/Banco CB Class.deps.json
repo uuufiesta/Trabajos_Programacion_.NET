@@ -1,0 +1,46 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Banco CB Class/1.0.0": {
+        "runtime": {
+          "Banco CB Class.dll": {}
+        }
+      },
+      "Cliente CB Class/1.0.0": {
+        "dependencies": {
+          "Cuenta Bancaria Class": "1.0.0"
+        },
+        "runtime": {
+          "Cliente CB Class.dll": {}
+        }
+      },
+      "Cuenta Bancaria Class/1.0.0": {
+        "runtime": {
+          "Cuenta Bancaria Class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Banco CB Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cliente CB Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Cuenta Bancaria Class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
