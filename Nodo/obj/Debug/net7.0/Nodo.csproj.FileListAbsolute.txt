@@ -1,0 +1,15 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Nodo\bin\Debug\net7.0\Nodo.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Nodo\bin\Debug\net7.0\Nodo.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Nodo\bin\Debug\net7.0\Nodo.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Nodo\bin\Debug\net7.0\Vulnerabilidad.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Nodo\bin\Debug\net7.0\Vulnerabilidad.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Nodo\obj\Debug\net7.0\Nodo.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Nodo\obj\Debug\net7.0\Nodo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Nodo\obj\Debug\net7.0\Nodo.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Nodo\obj\Debug\net7.0\Nodo.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Nodo\obj\Debug\net7.0\Nodo.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Nodo\obj\Debug\net7.0\Nodo.csproj.CopyComplete
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Nodo\obj\Debug\net7.0\Nodo.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Nodo\obj\Debug\net7.0\refint\Nodo.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Nodo\obj\Debug\net7.0\Nodo.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Nodo\obj\Debug\net7.0\ref\Nodo.dll

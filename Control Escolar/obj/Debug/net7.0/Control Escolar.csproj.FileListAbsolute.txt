@@ -1,0 +1,22 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\bin\Debug\net7.0\Control Escolar.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\bin\Debug\net7.0\Control Escolar.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\bin\Debug\net7.0\Control Escolar.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\bin\Debug\net7.0\Control Escolar.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\bin\Debug\net7.0\Control Escolar.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\bin\Debug\net7.0\Alumno_p87.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\bin\Debug\net7.0\Escuela_p87.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\bin\Debug\net7.0\Profesor_p87.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\bin\Debug\net7.0\Escuela_p87.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\bin\Debug\net7.0\Alumno_p87.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\bin\Debug\net7.0\Profesor_p87.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\obj\Debug\net7.0\Control Escolar.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\obj\Debug\net7.0\Control Escolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\obj\Debug\net7.0\Control Escolar.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\obj\Debug\net7.0\Control Escolar.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\obj\Debug\net7.0\Control Escolar.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\obj\Debug\net7.0\Control Escolar.csproj.CopyComplete
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\obj\Debug\net7.0\Control Escolar.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\obj\Debug\net7.0\refint\Control Escolar.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\obj\Debug\net7.0\Control Escolar.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\obj\Debug\net7.0\Control Escolar.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Control Escolar\obj\Debug\net7.0\ref\Control Escolar.dll

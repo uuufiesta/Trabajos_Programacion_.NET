@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Control Escolar/1.0.0": {
+        "dependencies": {
+          "Escuela_p87": "1.0.0"
+        },
+        "runtime": {
+          "Control Escolar.dll": {}
+        }
+      },
+      "Alumno_p87/1.0.0": {
+        "runtime": {
+          "Alumno_p87.dll": {}
+        }
+      },
+      "Escuela_p87/1.0.0": {
+        "dependencies": {
+          "Profesor_p87": "1.0.0"
+        },
+        "runtime": {
+          "Escuela_p87.dll": {}
+        }
+      },
+      "Profesor_p87/1.0.0": {
+        "dependencies": {
+          "Alumno_p87": "1.0.0"
+        },
+        "runtime": {
+          "Profesor_p87.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Control Escolar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alumno_p87/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Escuela_p87/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Profesor_p87/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

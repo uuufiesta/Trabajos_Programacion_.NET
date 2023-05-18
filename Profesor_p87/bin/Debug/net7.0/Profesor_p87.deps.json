@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Profesor_p87/1.0.0": {
+        "dependencies": {
+          "Alumno_p87": "1.0.0"
+        },
+        "runtime": {
+          "Profesor_p87.dll": {}
+        }
+      },
+      "Alumno_p87/1.0.0": {
+        "runtime": {
+          "Alumno_p87.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Profesor_p87/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Alumno_p87/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

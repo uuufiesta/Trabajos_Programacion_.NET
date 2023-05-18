@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Examen 3/1.0.0": {
+        "dependencies": {
+          "Red": "1.0.0"
+        },
+        "runtime": {
+          "Examen 3.dll": {}
+        }
+      },
+      "Nodo/1.0.0": {
+        "dependencies": {
+          "Vulnerabilidad": "1.0.0"
+        },
+        "runtime": {
+          "Nodo.dll": {}
+        }
+      },
+      "Red/1.0.0": {
+        "dependencies": {
+          "Nodo": "1.0.0"
+        },
+        "runtime": {
+          "Red.dll": {}
+        }
+      },
+      "Vulnerabilidad/1.0.0": {
+        "runtime": {
+          "Vulnerabilidad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Examen 3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Nodo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Red/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vulnerabilidad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

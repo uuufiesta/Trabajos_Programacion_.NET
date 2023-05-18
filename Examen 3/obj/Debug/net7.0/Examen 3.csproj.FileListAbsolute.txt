@@ -1,0 +1,22 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\bin\Debug\net7.0\Examen 3.exe
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\bin\Debug\net7.0\Examen 3.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\bin\Debug\net7.0\Examen 3.runtimeconfig.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\bin\Debug\net7.0\Examen 3.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\bin\Debug\net7.0\Examen 3.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\bin\Debug\net7.0\Nodo.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\bin\Debug\net7.0\Red.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\bin\Debug\net7.0\Vulnerabilidad.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\bin\Debug\net7.0\Red.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\bin\Debug\net7.0\Nodo.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\bin\Debug\net7.0\Vulnerabilidad.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\obj\Debug\net7.0\Examen 3.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\obj\Debug\net7.0\Examen 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\obj\Debug\net7.0\Examen 3.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\obj\Debug\net7.0\Examen 3.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\obj\Debug\net7.0\Examen 3.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\obj\Debug\net7.0\Examen 3.csproj.CopyComplete
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\obj\Debug\net7.0\Examen 3.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\obj\Debug\net7.0\refint\Examen 3.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\obj\Debug\net7.0\Examen 3.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\obj\Debug\net7.0\Examen 3.genruntimeconfig.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Examen 3\obj\Debug\net7.0\ref\Examen 3.dll

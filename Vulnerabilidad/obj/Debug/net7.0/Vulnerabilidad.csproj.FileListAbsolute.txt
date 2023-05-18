@@ -1,0 +1,12 @@
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Vulnerabilidad\bin\Debug\net7.0\Vulnerabilidad.deps.json
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Vulnerabilidad\bin\Debug\net7.0\Vulnerabilidad.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Vulnerabilidad\bin\Debug\net7.0\Vulnerabilidad.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Vulnerabilidad\obj\Debug\net7.0\Vulnerabilidad.csproj.AssemblyReference.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Vulnerabilidad\obj\Debug\net7.0\Vulnerabilidad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Vulnerabilidad\obj\Debug\net7.0\Vulnerabilidad.AssemblyInfoInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Vulnerabilidad\obj\Debug\net7.0\Vulnerabilidad.AssemblyInfo.cs
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Vulnerabilidad\obj\Debug\net7.0\Vulnerabilidad.csproj.CoreCompileInputs.cache
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Vulnerabilidad\obj\Debug\net7.0\Vulnerabilidad.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Vulnerabilidad\obj\Debug\net7.0\refint\Vulnerabilidad.dll
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Vulnerabilidad\obj\Debug\net7.0\Vulnerabilidad.pdb
+C:\Users\SKU 1084303565\Documents\Universidad\8vo Semestre\Sistemas de informacion geograficos\Trabajos_Programacion_.NET\Vulnerabilidad\obj\Debug\net7.0\ref\Vulnerabilidad.dll

@@ -14,6 +14,7 @@
     <projectFile>Conjetura de Collatz/Conjetura de Collatz.csproj</projectFile>
     <projectFile>Conteo numeros/Conteo numeros.csproj</projectFile>
     <projectFile>Continentes Mundo/Continentes Mundo.csproj</projectFile>
+    <projectFile>Control Escolar/Control Escolar.csproj</projectFile>
     <projectFile>Conversion Temperaturas Funct/Conversion Temperaturas Funct.csproj</projectFile>
     <projectFile>Convertir Dolares/Convertir Dolares.csproj</projectFile>
     <projectFile>Convertir Farenheit/Convertir Farenheit.csproj</projectFile>
@@ -26,6 +27,7 @@
     <projectFile>Esaciones Año/Esaciones Año.csproj</projectFile>
     <projectFile>Examen 1/Examen 1.csproj</projectFile>
     <projectFile>Examen 2/Examen 2.csproj</projectFile>
+    <projectFile>Examen 3/Examen 3.csproj</projectFile>
     <projectFile>Factorial Numeros/Factorial Numeros.csproj</projectFile>
     <projectFile>Funciones trigonometricas/Funciones trigonometricas.csproj</projectFile>
     <projectFile>Hipotenusa Triangulo/Hipotenusa Triangulo.csproj</projectFile>
@@ -81,10 +83,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1cd861ee-2c13-48eb-90e4-e75524ed8d60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Trabajos SIG/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Trabajos SIG/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calificacion Letra Funct/bin/Debug/net7.0/Calificacion Letra Funct.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calificacion Letra Funct/bin/Debug/net7.0/Calificacion Letra Funct.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calificacion Letra Funct/bin/Debug/net7.0/Calificacion Letra Funct.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calificacion Letra Funct/bin/Debug/net7.0/Calificacion Letra Funct.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calificacion Letra Funct/obj/Debug/net7.0/Calificacion Letra Funct.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Calificacion Letra Funct/obj/Debug/net7.0/Calificacion Letra Funct.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Calificacion Letra Funct/obj/Debug/net7.0/Calificacion Letra Funct.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Calificacion Letra Funct/obj/Debug/net7.0/Calificacion Letra Funct.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trabajos SIG.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Trabajos SIG.sln" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,6 +119,7 @@
     <setting file="file://$PROJECT_DIR$/Area de un circulo/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Area de un triangulo/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Arriba Abajo/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Banco CB Class/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Calculadora/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Calcular Angulo/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Calificacion Letra Funct/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
@@ -167,7 +166,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected=".NET Project.Cuenta Bancaria Main">
+  <component name="RunManager" selected=".NET Project.Examen 3">
     <configuration name="Aceptar Estudiante V2" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -402,6 +401,24 @@
         <option name="Build" />
       </method>
     </configuration>
+    <configuration name="Control Escolar" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Control Escolar/Control Escolar.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
     <configuration name="Conversion Temperaturas Funct" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -609,6 +626,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/Examen 2/Examen 2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="Examen 3" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Examen 3/Examen 3.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -1561,7 +1596,9 @@
       <workItem from="1681922010250" duration="12284000" />
       <workItem from="1682442339716" duration="2722000" />
       <workItem from="1682526278816" duration="4997000" />
-      <workItem from="1683045728410" duration="3978000" />
+      <workItem from="1683045728410" duration="4079000" />
+      <workItem from="1683651359867" duration="3109000" />
+      <workItem from="1684257627885" duration="6510000" />
     </task>
     <task id="LOCAL-00001" summary="Añadiendo trabajos">
       <created>1677001912403</created>
@@ -1696,7 +1733,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682531277917</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Se agrega la actividad 14">
+      <created>1683049768205</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1683049768205</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1733,6 +1777,7 @@
     <MESSAGE value="Se agrega la tarea 4" />
     <MESSAGE value="Se agrega Examen 2 y practica examen" />
     <MESSAGE value="Se agrega la actividad 12" />
-    <option name="LAST_COMMIT_MESSAGE" value="Se agrega la actividad 12" />
+    <MESSAGE value="Se agrega la actividad 14" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se agrega la actividad 14" />
   </component>
 </project>
